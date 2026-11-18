@@ -113,3 +113,5 @@ None
 ```
 
 ## Result
+
+Thus, the experiment helped us understand the use of NumPy and Pandas in Python for basic data manipulation and analysis. NumPy was used to perform numerical operations and calculations efficiently, while Pandas was used to create, organize, filter, and analyse data using Series and DataFrames. Hence, the objective of learning basic data manipulation and analysis using NumPy and Pandas was successfully achieved.
